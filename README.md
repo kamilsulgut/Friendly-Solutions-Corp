@@ -4,7 +4,7 @@ This is a recruitment job for [Friendly Solutions Corp](http://www.friendly-solu
 
 ## Techstack
 
-This project uses technologies such as: 1.[React](https://reactjs.org/) 2.[TypeScript](https://www.typescriptlang.org/)
+This project uses [React](https://reactjs.org/) and [TypeScript](https://www.typescriptlang.org/)
 
 ## Available Scripts and run steps
 
