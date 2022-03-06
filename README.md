@@ -1,6 +1,6 @@
 # Welcome!
 
-Hi. This is a recruitment job for [Friendly Solutions Corp](http://www.friendly-solutions.com) using React and TypeScript
+This is a recruitment job for [Friendly Solutions Corp](http://www.friendly-solutions.com) using React and TypeScript
 
 ## Techstack
 
